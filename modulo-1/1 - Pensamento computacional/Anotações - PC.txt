@@ -1,0 +1,113 @@
+Pensamento Computacional!
+Prof.: Juliana Mascarenhas 
+
+Tópico 1 – 
+Visão Geral
+•	Refere-se ao processo de pensamento.
+•	Formulação e resolução de problemas.
+•	Aplicado de um jeito que máquinas e seres humanos entendam.
+•	Não é acadêmica (escrita, leitura e matemática).
+
+Habilidades complementares 
+	Raciocínio logico – é um tipo de pensamento estruturado, ou, raciocínio, que permite encontrar a conclusão ou determinar a resolução de um problema. 
+		- Encontrar solução para os problemas
+		- Treinamento 
+
+Classificação – indução – Leis e teorias 
+		- Dedução – Previsões e explicação 
+		- Abdução – Conclusão → Premissa 
+	
+			 Inferência – sintética – Abdução 
+						- Indução 
+					Analítica – Dedução 
+
+Aperfeiçoamento 
+Melhoramento, aprimorar, refinamento, aperfeiçoar...
+	A partir de lima solução determinada pontos de melhora e refinamento.
+Tem vantagem em ser maior compreendido, mais eficiência, menos tempo e menor armazenamento. 
+
+
+
+
+Pilares computacional 
+Decomposição – 
+	Dado um problema complexo, devemos quebra – lo em problemas menores, portanto, problemas mais fácies e gerenciais. 
+		
+		Estratégia 
+Quebrar e determinar ← Análise → Menores e gerenciáveis 
+Combinar elementos ← Síntese → Recompondo o problema original 
+Sequencial → Ordem de execuções de tarefas menores ← Paralelo 
+
+•	Coimo decompor 
+•	Entender o problema 
+Deixar de lado o problema principal e resolver os componentes. 
+
+Reconhecimento de padrões – 
+•	Modelo base 
+•	Estrutura variante				Similaridade e 
+•	Repetição 					diferenças
+- Generalizar 
+- Classificação de objetos. 
+
+Humanos fazem pelo grau de similaridades 
+	- Por grupos conhecidos X objetos desconhecidos 	
+ 		(características / comparação)
+Computadores tem que:
+	- Fornece atributos (dados) 
+ 	- Aprendizado, ensinar o Computador 
+	- Armazenar dados
+	- Regras de decisão 
+
+Aplicação 
+•	Classificação de dados 
+•	Reconhecimento de imagem
+•	Reconhecimento de fala
+•	Análise de cenas
+•	Classificação de cenas
+•	Classificação de documentos 
+
+Abstração – 
+Abstrair 				Abstração 				Generalizar 
+Aplicar Características 	 Processo intelectual de 		torna-se geral, mas 
+E propriedades em 		 isolar objeto da 			amplo, extensão 
+Separação.			 Realidade 
+
+Generalização – operação que consiste na logica de reunir numa classe geral, um conjunto de seres ou fenômenos similares.
+
+Como se classifica dados?
+•	Pontos essenciais
+•	Características 
+•	Generalizar X detalhar 
+Representação de dados – focar em postos essenciais, para o problema.
+
+Algoritmos 
+Sequência de passos com objetivo definido
+Execução de tarefas especificas
+Conjunto de operações que resultam em uma sucessão finita de ações.
+PC. 
+•	Energia
+•	Trabalhador
+•	Eficiência
+•	Rapidez 
+O computador recebe, manipula e armazena dados. 
+Tem que ser dito ao computador tudo que tem que ser feito, passo a passo e a ordem de execução, logo tem que ter instruções detalhadas e bem diretas.
+- Análise (entrada e saída de dados)
+- Algoritmo (descrever o problema, narrativa, fluxograma ou pseu do código) 
+- Codificação (utiliza linguagem de programação) 
+	Instruções detalhadas → Algoritmo → programa 
+Construir um algoritmo – 
+•	Compreensão do problema 
+•	Definição dados de entrada
+•	Definir processamento
+•	Definir dados de saída
+•	Utilizar um método de construção 
+•	Teste e diagnostico
+Métodos 
+	Narrativa  -  fluxograma  -  Pseu do código 
+
+Estudo do caso 
+Ex: caso alguém se perca na floresta o que deve ser feito, encontrar jeitos de sobreviver e sair. Então tem que identificar mecanismos de sobrevivência, como água, comida, abrigo.
+Perguntar sempre o PQ?
+
+Referência de livro: 
+Fundamentos da programação de computadores. 

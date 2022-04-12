@@ -1,0 +1,147 @@
+Scrum 
+
+Gestão de projeto 
+	- Dois tipos 
+		- Tradicional (waterfall) 
+		- Ágil 
+Tradicional – só avança quando termina uma parte.
+	- Escopo definido na fase inicial do projeto.
+	- Projeto é controlado por fases e marcos.
+	- Cliente só ve software funcionando na fase final do projeto.
+	- Resistente a mudanças.
+Projetos tradicionais, tem oi risco de descobrir que estava errado depois de meses, 
+
+Ágil – construído por partes por mês. 
+	- Escopo definido ao longo do projeto (adaptativo)
+	- Projeto é controlado por funcionalidades entregues.
+	- Cliente pode ver partes do software funcionando na parte inicial do projeto.
+	- Mudanças constantes de acordo com o feedback contínuos. 
+Projetos ágeis, descobre se estava errado em no máximo 30 dias. 
+O que é ser ágil?
+	- Rapidez (mudança) e desembaraço;
+	- Fazer coisas complexas de forma simples;
+	- Equipe comprometida com os objetivos;
+	- Maior valor para o cliente;
+
+Scrum – é um dos frameworks de gerenciamento de projetos ágeis. Projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados.
+
+Scrum tem 3 pilares, transparência, adaptação e inspeção.
+	Tem aspectos como: 
+•	Conversar mais e escrever manos
+•	Demonstrar o software constante ao usuário e obter feedbacks
+•	Requisitos mudam ao longo do tempo
+•	Aprender progressivamente com o uso de software
+Porque adotar o scrum?
+•	Desenvolvimento em partes menores (2 a 4 semanas)
+•	Redução de incertezas
+•	Comprometimento, motivação e transparência da equipe (daily meeting)
+•	Priorização do backlog
+•	Usuários envolvidos durante o ciclo
+•	Aplicação das lições aprendida
+
+Parei do time Scrum
+Producto Owner (PO) 
+•	Representante da área de negócios
+•	PO não é comitê 
+•	Define funcionalidades do software (product Backlog)
+•	Prioriza as funcionalidades de acordo om o valor do negócio
+•	Garante que o time de desenvolvimento entenda os itens do backlog no novel necessário
+
+Scrum Master (SM) 
+•	Garante o uso correto do scrum
+•	Scrum master não é gerente de projetos
+•	Age como facilitador
+•	Auxilia o PO no planejamento e estimativas do Backlog
+•	Auxilia a equipe a remover impedimentos
+•	Treina o time em autogerenciamento e interdisciplina
+
+Time desenvolvimento (DEV)
+•	Possui habilidade suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando.
+
+Cerimonias do scrum 
+Time box – tempo máximo definido de fazer uma cerimônia ou sprint
+Sprint – corrida/arrancada. Principal evento do scrum=, duração de 1 sprint pode ter 30 dias corridos (quem define é a equipe) 
+	- Sprint é composto por: 
+				planejamento
+				reuniões diárias (daily meeting)
+				revisão da sprint (review)
+				retrospectiva da sprint
+planejamento da sprint, reúne PO, SM e DEV. Pode durar de 4 a 8h 
+	primeiras 4h o PO vai explicar o que deseja no sprint
+	nas outras 4h os DEVs quebram as atividades e entende como fazer e entregar
+pode usar ferramentas e tarefas como: 
+•	Planning Poker – Utiliza baralho e cada um opina estimativa de cada tarefa e depois o time verifica se o que o PO pediu ira ser entregue a tempo.
+Review (feita no penúltimo dia)
+•	Revisão, time DEV apresenta para o PO o trabalho feito. 
+Retrospectiva (último dia) 
+•	A equipe tem que ser transparente e apresentar os erros e aprendizados de cada um, lições aprendidas e tudo mais. 
+
+Release Planning 
+	Liberação ou lançamento de software (inglês: release) é o lançamento de nova versão oficial de produto de software. Cada vez que um produto de software é criado ou modificado, o fabricante e seus desenvolvedores decidem sobre como distribuir ou o novo projeto ou a modificação as pessoas que utilizam. 
+Não é obrigatório er uma release a final de cada sprint, pode acumular, mas pode dar erro.
+Dois tipos de release: 
+•	Release Planning de múltiplas squads
+•	Release plannig de projeto
+
+Release Planning de múltiplas squads – Vários times DEV agrupados fazendo coisas distintas e depois agrupam na final da sprint. 
+
+Release plannig de projeto – PO demanda a quebra dos processos. 
+
+Product Backlog – é composto por épicos e estórias 
+Épicos – incremento sem muito detalhamento, ajuda a ter direcionamento dos caminhos que deve seguir.
+Estórias - detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e sues regras de negócio.
+Cada produto tem backlog.
+Épico pode gerar estórias.
+
+Tarefas – realizar tarefas para fazer as estórias. 
+Reler e ver os vídeos novamente, ver os exemplos da internet e uma explicação para reforçar o entendimento. 
+Links: https://www.academiadepos.com.br/post/product-backlog-%C3%A9pico-hist%C3%B3ria-de-usu%C3%A1rio-e-tarefas
+https://cursos.alura.com.br/forum/topico-exemplo-de-epicos-historia-de-usuarios-e-tarefas-58812
+
+Exemplo pego da internet:
+um exemplo de épico, história e tarefa poderia ser algo assim, vamos supor que você trabalha em um site de vendas online. A próxima grande estratégia que a empresa gostaria de implementar e algo que vai ocupar várias sprints do(s) time(s) é criar um sistema de lista de desejos visível para os meus amigos.
+Então um épico, algo muito grande que precisará ser feito, seria justamente que o cliente deseja atrelar a sua conta uma lista de desejos pela qual os amigos dele na plataforma consigam ver e presenteá-lo no aniversário.
+Isso seria algo grande demais para caber em 1 sprint, por isso precisamos quebrar este épico em partes menores que serão as histórias. Pensando nisso, uma primeira história seria que o cliente da loja, ao visualizar um produto tenha uma forma de adicioná-lo a sua lista de desejos. Outra história seria que um usuário pode acessar a lista de desejos de todos os contatos de quem ele é amigo para comprar um produto como presente para a pessoa. A terceira seria uma tela por onde o cliente pode ver quais produtos da sua lista alguém já comprou. Assim por diante.
+Mesmo uma história ainda continua em nível de negócio, ai em reuniões como a planning do Scrum o time quebra isso em tarefas que estão no nível mais técnico da coisa. Então para fazer a primeira história poderia ter tarefas como: criar uma tela de cadastro de lista de lista de desejos, adicionar um botão na tela dos produtos de "Adicionar a lista de desejos", desenvolver uma tela que mostra todos os produtos adicionado em determinada lista.
+Um framework que possui alguns templates de criação de épicos é o SAFe. Nesse link eles mostram como seria a estrutura de um card de um épico.
+Já a história geralmente é o formato clássica de : Para... (o porquê da história) Eu, no papel de... (para quem estamos fazendo) Quero.... (o que de fato precisa ser feito).
+
+Backlog do Produto – Product Backlog (PB)
+
+
+Ele é o conjunto de todas necessidades dos consumidores e do negócio que serão resolvidas pelo produto. Ele é mantido valorado e priorizado pelo Product Owner. Não é obrigatório utilizar o formato de História de Usuários no Product Backlog.
+
+
+Épico – Epic
+
+
+É uma história de usuário que ainda não foi detalhada, é muito grande ou ainda possui muita incerteza e portanto não pode ser transformada em incremento do produto. O épico deve ser fatiado em histórias de usuário menores. Um exemplo de épico poderia ser: Eu, enquanto deficiente visual, desejo que meu ambiente de trabalho seja mais acessível para que eu não dependa tanto de outras pessoas.
+
+
+História de usuário – User Story (US)
+
+Muito resumidamente, a História de Usuário é um formato sucinto para escrita dos requisitos necessários para a construção de um produto. Ela deve ser compreensível para o clientes e consumidores. Exemplos de histórias de usuário para o épico apresentado acima:
+História 1: Eu, enquanto deficiente visual, desejo que os locais que eu tenho que ir sejam acessíveis para que eu não tenha que passar pelo constrangimento de ficar perguntando para as pessoas sobre os locais onde quero ir.
+História 2: Eu, enquanto deficiente visual, desejo chegar facilmente à saída de emergência, pois não quero morrer em um incêndio.
+Perceba que um bom Product Owner pode fatiar a história ainda mais se tentar entender a parte mais importante do problema mais importante do cliente mais importante. Por exemplo:
+História 1.1: Eu, enquanto deficiente visual, desejo chegar facilmente aos banheiros para que eu não tenha que passar pelo constrangimento de ficar perguntando para as pessoas sobre os locais aonde quero ir.
+História 1.2: Eu, enquanto deficiente visual, desejo chegar facilmente aos elevadores para que eu não tenha que passar pelo constrangimento de ficar perguntando para as pessoas sobre os locais aonde quero ir.
+História 1.3: Eu, enquanto deficiente visual, desejo chegar facilmente às salas de reunião para que eu não tenha que passar pelo constrangimento de ficar perguntando para as pessoas sobre os locais aonde quero ir.
+Pode fatiar mais ainda. Digamos, que a maioria dos deficientes visuais estão no 5º andar.
+História 1.1.1: Eu, enquanto deficiente visual que trabalha no 5º andar, desejo chegar facilmente aos banheiros para que eu não tenha que passar pelo constrangimento de ficar perguntando para as pessoas sobre os locais aonde quero ir.
+Tarefas – Tasks
+Tarefas são itens técnicos necessários para que uma História de Usuário se transforme em incremento do produto. Exemplo de tarefas da História 1.1.1:
+Adquirir módulo de sensor de presença;
+Adquirir alto-falantes;
+Fazer o design das novas placas;
+Criar os modelos de engenharia;
+Montar as placas;
+Instalar as placas nos banheiros do 5º andar; etc.
+A hierarquia
+A hierarquia que temos com a histórias de usuário é essa:
+O Backlog do Produto é a coleção de história de usuários que deveremos fazer. Um backlog do usuário possui de 1 até N Histórias. O backlog não precisa conter épicos. Normalmente times que trabalham com o escopo totalmente flexível e constante validação de hipóteses mantém um backlog extremamente enxuto.
+Caso existam épicos no backlog, ele pode ser fatiado em N histórias de usuário. Todavia, o épico pode ser descartado caso se conclua que ele não será capaz de trazer os benefícios inicialmente imaginados.
+Uma história de usuário pode ser dividida em N tarefas técnicas. Todavia, quando o Product Owner faz um bom fatiamento das histórias de usuário, o Time tem um fluxo de valor muito bem mapeado no Quadro de Tarefas, já dominam as ferramentas e técnicas necessárias para a construçao e conhecem o contexto em que atuam, menor é a necessidade de quebrar a histórias em tarefas.
+Conceitualmente só existem esses quatro níveis na hierarquia de histórias de usuário, mas há muita confusão. Uma boa parte dela gerada quando as pessoas começam a utilizar ferramentas de gestão de projetos ágeis antes de conhecer os conceitos.
+Confusão gerada pela nomenclatura das ferramentas
+O quadro abaixo apresenta alguns dos nomes utilizados pelas ferramentas mais conhecidas no mercado: Microsoft Azure Boards (Antigo Team Foundation Service – TFS), C.A. Agile Central (antigo Rally), Jira, IBM Rational Team Concert (RTC), Trello e VersionOne. Na imagem, podemos ver que NÃO há uma padronização e isso acaba gerando uma grande confusão nas pessoas.

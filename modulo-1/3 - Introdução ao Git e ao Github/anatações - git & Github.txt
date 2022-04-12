@@ -1,0 +1,50 @@
+Git & GitHub 
+Git –é um sistema de versionamento de código distribuído, feito por Linus Torvalds em 2005. (Linux estava com problema e foi feito o Git)
+Github – Repositório online (armazenar).
+
+GUI – Graphical user interface       CLI - Command line interface
+Dir – Diretorio 
+CD – Pasta (mudar diretório) 
+Cls/ ctrl + L – Limpar terminal
+Criar pasta – mkdir – criar diretório 
+Rmdir – apagar pasta e tudo dentro 
+Del – deletar arquivos 
+/s /q
+
+SHA1 – secure hash algorithm (algoritmo de Hash seguro) 
+	- é um conjunto de funções hash criptografadas projetadas pela NSA (agência de segurança nacional EUA). Algoritmo de encriptação (embaralha tudo)
+	- Encriptação gera conjunto de caracteres identificador de 40 dígitos.
+ Objetos internos do Git 
+	- Blobs: Arquivos ficam guardados dentro, contam metadados, tendo tipo, tamanho \0 “conteúdo” (não marca nome).
+		- Encapsula comportamentos desses diretórios que conotam arquivos.
+	- Trees (arvores): armazenam os BLOBS, tem metadados, marca, nome, pode marcar diretórios. 
+Ex: 
+	Tree → Blob
+	        → Blob
+	        → Tree → Blob
+
+Commits – Vai juntar tudo, apontar para uma arvore (tree), parente, autor, mensagem e time. (único para cada autor).
+
+Todos têm SHA1, logo todos tem encriptação.
+
+Ex:
+Blob ← Tree → Commit → Tree
+	   	 ↓	      ↓                                             
+	    	        Tree
+
+
+Resumindo, Blob carregam arquivos, Tree armazena os blobs e metadados e os Commits direciona tudo dentro do tree e blobs e aponta para outro tree/blobs.
+Chave SSH – é uma forma de estabelecer uma conexão segura entre máquinas. 
+	Gerar chave – pegar conteúdo – colocar Github 
+Tockes – Acesso limitado ou não.
+
+Git init – inicia git (cria repositório na pasta)		(sempre colocar o nome do terminal na frente)
+Git add – adiciona 
+Ls -a: mostra arquivos ocultos 
+
+Markdown – jeito mais humano de criar texto html 
+	# - h1, ## - h2...
+	** - negrito
+Git Commit -m: commit inicial (carrega mensagem de texto e outros dados).
+Git status – monitorar os arquivos 
+MV – Mover
